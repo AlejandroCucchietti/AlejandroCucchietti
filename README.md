@@ -15,7 +15,12 @@ I am deeply passionate about self-directed learning. Two years ago, I discovered
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+[![My Skills](
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,kotlin,mysql" />
+    </a>
+  </p> )
 
 ## 🌱 Currently Exploring
 
@@ -34,7 +39,7 @@ I am deeply passionate about self-directed learning. Two years ago, I discovered
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter/X]([https://twitter.com/v1k1ng27])
+- Connect with me on [Twitter/X](https://twitter.com/v1k1ng27)
 - Read more of my articles on [alecucchietti.dev](https://alecucchietti.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
