@@ -15,12 +15,12 @@ I am deeply passionate about self-directed learning. Two years ago, I discovered
 
 
 ## Tech Stack
-[![My Skills](
+
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,kotlin,mysql" />
     </a>
-  </p> )
+  </p>
 
 ## 🌱 Currently Exploring
 
