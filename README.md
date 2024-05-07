@@ -1,8 +1,8 @@
-# Hi, I'm <Alejandro Cucchietti>! 👋
+# Hi, I'm Alejandro Cucchietti! 👋
 
 I am deeply passionate about self-directed learning. Two years ago, I discovered my love for programming and software development, a field where I continuously seek to deepen my knowledge. I am eager to progress in my career by mastering new technologies, enhancing my skills, and engaging in innovative and challenging projects.
 
-![<AlejandroCucchietti>'s Stats](https://github-readme-stats.vercel.app/api?username=<AlejandroCucchietti>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![AlejandroCucchietti's Stats](https://github-readme-stats.vercel.app/api?username=AlejandroCucchietti&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
